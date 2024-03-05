@@ -1,0 +1,14 @@
+D:\project\API1\API1\bin\Debug\netcoreapp2.1\API1.deps.json
+D:\project\API1\API1\bin\Debug\netcoreapp2.1\API1.runtimeconfig.json
+D:\project\API1\API1\bin\Debug\netcoreapp2.1\API1.runtimeconfig.dev.json
+D:\project\API1\API1\bin\Debug\netcoreapp2.1\API1.dll
+D:\project\API1\API1\bin\Debug\netcoreapp2.1\API1.pdb
+D:\project\API1\API1\obj\Debug\netcoreapp2.1\API1.csprojAssemblyReference.cache
+D:\project\API1\API1\obj\Debug\netcoreapp2.1\API1.csproj.CoreCompileInputs.cache
+D:\project\API1\API1\obj\Debug\netcoreapp2.1\API1.RazorAssemblyInfo.cache
+D:\project\API1\API1\obj\Debug\netcoreapp2.1\API1.RazorAssemblyInfo.cs
+D:\project\API1\API1\obj\Debug\netcoreapp2.1\API1.AssemblyInfoInputs.cache
+D:\project\API1\API1\obj\Debug\netcoreapp2.1\API1.AssemblyInfo.cs
+D:\project\API1\API1\obj\Debug\netcoreapp2.1\API1.RazorTargetAssemblyInfo.cache
+D:\project\API1\API1\obj\Debug\netcoreapp2.1\API1.dll
+D:\project\API1\API1\obj\Debug\netcoreapp2.1\API1.pdb
